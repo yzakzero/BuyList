@@ -16,3 +16,6 @@
 ## Tf
 1. [AttributeError: module 'tensorflow' has no attribute 'placeholder'等问题的解决](https://blog.csdn.net/flowingfog/article/details/93597697)
 2. [安装matplotlib，报错：raise ReadTimeoutError](https://blog.csdn.net/gelinggeling88/article/details/81535683)
+
+## Mac System
+1. [Shut Down slowly](https://www.jianshu.com/p/5c501463bbca)
